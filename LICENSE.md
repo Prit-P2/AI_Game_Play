@@ -1,6 +1,6 @@
 # CMake SFML Project Licenses
 
-*This software is available under 2 licenses -- choose whichever you prefer.*
+*The original SFML template is available under the two licenses below. Original project contributions by PRIT VIPULKUMAR TANDEL are licensed under the MIT License.*
 
 ## Public Domain
 
@@ -28,6 +28,8 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 ## MIT License
+
+Copyright (c) 2026 PRIT VIPULKUMAR TANDEL (original project contributions)
 
 Copyright (c) 2022 Lukas Dürrenberger
 
